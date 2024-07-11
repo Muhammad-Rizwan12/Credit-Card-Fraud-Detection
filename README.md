@@ -33,7 +33,7 @@ We applied several machine learning techniques to detect fraudulent transactions
 
 3. **Feedforward Neural Network (FNN)**
    - **Accuracy**: See attached image for detailed accuracy and loss plots
-   ![FNN Accuracy and Loss]()
+   ![FNN Accuracy and Loss](FNN.png)
 
 4. **Random Forest**
    - **Accuracy**: 0.9898
