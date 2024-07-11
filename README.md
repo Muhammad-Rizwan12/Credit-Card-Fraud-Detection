@@ -51,7 +51,7 @@ We evaluated the models using various performance metrics to handle the imbalanc
 - AUC-ROC
 
 ## Results
-The **Random Forest** model performed best with an accuracy of 0.9898, achieving high precision and recall, effectively identifying fraudulent transactions.
+The **FNN model** emerged as a powerful tool with an accuracy of 99.2 in combating credit card fraud, setting new benchmarks in accuracy and reliability
 
 ## Usage
 - To get started with this project follow these Steps:
